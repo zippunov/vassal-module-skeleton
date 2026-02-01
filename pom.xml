@@ -129,12 +129,12 @@
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/zippunov/stalins-tanks-vassal/issues</url>
+        <url>https://github.com/zippunov/vassal-module-skeleton/issues</url>
     </issueManagement>
 
     <scm>
         <url>https://github.com/zippunov/vassal-skeleton</url>
-        <connection>scm:git:git://github.com/zippunov/stalins-tanks-vassal.git</connection>
-        <developerConnection>scm:git:git@github.com:zippunov/stalins-tanks-vassal.git</developerConnection>
+        <connection>scm:git:git://github.com/zippunov/vassal-module-skeleton.git</connection>
+        <developerConnection>scm:git:git@github.com:zippunov/vassal-module-skeleton.git</developerConnection>
     </scm>
 </project>
